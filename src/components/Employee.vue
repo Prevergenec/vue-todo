@@ -19,7 +19,7 @@ const print = () => {
 <style scoped>
     .empoloyee-item {
         background-color: #fff;
-        padding: 5px 15px;
+        padding: 15px;
         margin: 5px;
         border-radius: 3px;
         border: 1px solid #ccc;
